@@ -1,0 +1,23 @@
+2017-11-30 16:05:51,698 - [INFO] - ---------Iteration 1-----------
+2017-11-30 16:05:51,700 - [INFO] - Running C:\Program Files\Tableau\Tableau Server\10.5\bin\tabadmin.exe stop
+2017-11-30 16:07:26,247 - [INFO] - ---------Iteration 1-----------
+2017-11-30 16:07:26,247 - [INFO] - Running C:\Program Files\Tableau\Tableau Server\10.5\bin\tabadmin.exe stop
+2017-11-30 16:08:53,762 - [ERROR] - 
+2017-11-30 16:08:53,763 - [INFO] - Running C:\Program Files\Tableau\Tableau Server\10.5\bin\tabadmin.exe start
+2017-11-30 16:12:10,181 - [ERROR] - 
+2017-11-30 16:12:10,233 - [INFO] - WPT Result URL: http://webpagetest/result/171201_BP_1/
+2017-11-30 16:12:25,470 - [ERROR] - No instrumentation request detected from page load. Please make sure WCI instrumentation is enabled in server.
+2017-11-30 16:12:25,470 - [INFO] - ---------Iteration 2-----------
+2017-11-30 16:12:25,470 - [INFO] - Running C:\Program Files\Tableau\Tableau Server\10.5\bin\tabadmin.exe stop
+2017-11-30 16:13:53,016 - [ERROR] - 
+2017-11-30 16:13:53,016 - [INFO] - Running C:\Program Files\Tableau\Tableau Server\10.5\bin\tabadmin.exe start
+2017-11-30 16:17:09,638 - [ERROR] - 
+2017-11-30 16:17:09,683 - [INFO] - WPT Result URL: http://webpagetest/result/171201_FM_2/
+2017-11-30 16:17:18,868 - [ERROR] - No instrumentation request detected from page load. Please make sure WCI instrumentation is enabled in server.
+2017-11-30 16:17:18,868 - [INFO] - ---------Iteration 3-----------
+2017-11-30 16:17:18,868 - [INFO] - Running C:\Program Files\Tableau\Tableau Server\10.5\bin\tabadmin.exe stop
+2017-11-30 16:18:47,676 - [ERROR] - 
+2017-11-30 16:18:47,677 - [INFO] - Running C:\Program Files\Tableau\Tableau Server\10.5\bin\tabadmin.exe start
+2017-11-30 16:22:02,391 - [ERROR] - 
+2017-11-30 16:22:02,434 - [INFO] - WPT Result URL: http://webpagetest/result/171201_Z3_3/
+2017-11-30 16:22:14,645 - [ERROR] - No instrumentation request detected from page load. Please make sure WCI instrumentation is enabled in server.
