@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0c47da4-34e0-4008-8c11-963e22b6d5d5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/BugMetrics1.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/BugMetrics2.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/JeremyKeeton_Resume.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/home.html" afterPath="$PROJECT_DIR$/templates/home.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/layout.html" afterPath="$PROJECT_DIR$/templates/layout.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/projects.html" afterPath="$PROJECT_DIR$/templates/projects.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/resume.html" afterPath="$PROJECT_DIR$/templates/resume.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -113,8 +104,8 @@
       <file leaf-file-name="home.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" column="46" lean-forward="false" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
+            <state relative-caret-position="225">
+              <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -621,7 +612,14 @@
       <option name="project" value="LOCAL" />
       <updated>1518489283478</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="adding more stuff.">
+      <created>1518492844383</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1518492844383</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -679,7 +677,8 @@
     <MESSAGE value="NewFlaskApp" />
     <MESSAGE value="adding more elements" />
     <MESSAGE value="more items to the test area and starting to work on images" />
-    <option name="LAST_COMMIT_MESSAGE" value="more items to the test area and starting to work on images" />
+    <MESSAGE value="adding more stuff." />
+    <option name="LAST_COMMIT_MESSAGE" value="adding more stuff." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -876,8 +875,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="46" lean-forward="false" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
+        <state relative-caret-position="225">
+          <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
           <folding />
         </state>
       </provider>
