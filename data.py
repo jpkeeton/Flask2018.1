@@ -5,21 +5,21 @@ def Articles():
             'title': 'Article One',
             'body': 'Here are my Python Selenium projects',
             'author': 'Jeremy Keeton',
-            'create_date': '10-13-2017'
+            'create_date': '02-01-2018'
         },
         {
             'id': 2,
             'title': 'Article Two',
-            'body': 'Im learning visualization with Python on this page here',
+            'body': 'Learning data visualization with Python',
             'author': 'Jeremy Keeton',
-            'create_date': '10-13-2017'
+            'create_date': '02-01-2018'
         },
         {
             'id': 3,
             'title': 'Article Three',
-            'body': 'Lorem ipsum dolor.',
+            'body': 'Testing and QA stuff',
             'author': 'Jeremy Keeton',
-            'create_date': '10-13-2017'
+            'create_date': '02-01-2018'
         }
     ]
     return articles
