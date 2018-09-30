@@ -31,6 +31,10 @@ def projects():
 def testing():
     return render_template('testing.html')
 
+@app.route('/datascience')
+def datascience():
+    return render_template('datascience.html')
+
 #Unused bits
 # @app.route('/articles')
 # def articles():
