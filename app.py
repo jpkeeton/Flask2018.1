@@ -27,6 +27,10 @@ def resume ():
 def projects():
     return render_template('projects.html')
 
+@app.route('/dataviz')
+def dataviz():
+    return render_template('dataviz.html')
+
 @app.route('/testing')
 def testing():
     return render_template('testing.html')
