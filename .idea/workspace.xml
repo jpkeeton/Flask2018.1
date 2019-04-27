@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0c47da4-34e0-4008-8c11-963e22b6d5d5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/static/images/PettersonSample.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/myFirstFlask.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/myFirstFlask.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/PettersonSample2.JPG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/dataviz.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/dataviz.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/testing.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/testing.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -90,7 +85,7 @@
         <entry file="file://$PROJECT_DIR$/templates/testing.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="378">
-              <caret line="56" column="4" lean-forward="true" selection-start-line="56" selection-start-column="4" selection-end-line="56" selection-end-column="4" />
+              <caret line="26" column="28" lean-forward="true" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -140,8 +135,8 @@
       <file leaf-file-name="dataviz.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/dataviz.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="48" column="72" selection-start-line="48" selection-start-column="72" selection-end-line="48" selection-end-column="72" />
+            <state relative-caret-position="504">
+              <caret line="54" column="21" lean-forward="true" selection-start-line="54" selection-start-column="21" selection-end-line="54" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -516,7 +511,14 @@
       <option name="project" value="LOCAL" />
       <updated>1547614673535</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="worked on QA bullets and started adding Viz gallery">
+      <created>1556339779861</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1556339779862</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TodoView">
@@ -539,7 +541,7 @@
       <window_info anchor="bottom" id="Python Console" order="9" sideWeight="0.49947917" weight="0.24803922" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.62003905" visible="true" weight="0.09641873" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4984375" weight="0.6019608" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.048796356" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21340273" />
       <window_info anchor="right" id="R Packages" order="5" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="right" id="R Graphics" order="4" />
@@ -620,7 +622,8 @@
     <MESSAGE value="adding some more details regarding current projects" />
     <MESSAGE value="Adding a Data Viz page" />
     <MESSAGE value="adding image and starting to adjust colors" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding image and starting to adjust colors" />
+    <MESSAGE value="worked on QA bullets and started adding Viz gallery" />
+    <option name="LAST_COMMIT_MESSAGE" value="worked on QA bullets and started adding Viz gallery" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app.py">
@@ -775,20 +778,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="36" column="10" lean-forward="true" selection-start-line="36" selection-start-column="10" selection-end-line="36" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/testing.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="56" column="4" lean-forward="true" selection-start-line="56" selection-start-column="4" selection-end-line="56" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/layout.html">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -813,10 +802,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="36" column="10" lean-forward="true" selection-start-line="36" selection-start-column="10" selection-end-line="36" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/testing.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="26" column="28" lean-forward="true" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/templates/dataviz.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="48" column="72" selection-start-line="48" selection-start-column="72" selection-end-line="48" selection-end-column="72" />
+        <state relative-caret-position="504">
+          <caret line="54" column="21" lean-forward="true" selection-start-line="54" selection-start-column="21" selection-end-line="54" selection-end-column="21" />
         </state>
       </provider>
     </entry>
